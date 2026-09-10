@@ -9,7 +9,7 @@ window.onload = function(){
         fillColor: "green",
         strokeColor: "black",
         velocity_x:2,
-        velocity_y:1
+        velocity_y:2
     };
 
     var eyeL={
